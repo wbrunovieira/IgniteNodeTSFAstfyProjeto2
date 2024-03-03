@@ -25,3 +25,5 @@ logs/
 # Miscellaneous
 .DS_Store
 .env
+
+tmp/app.db
